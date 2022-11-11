@@ -22,6 +22,6 @@ export class AppService {
 
     });
 
-    return "sucкуку434343434343к";
+    return "Поменяли ветку";
   }
 }
