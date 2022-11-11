@@ -22,6 +22,6 @@ export class AppService {
 
     });
 
-    return "suc";
+    return "sucкукук";
   }
 }
