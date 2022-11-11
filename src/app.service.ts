@@ -22,6 +22,6 @@ export class AppService {
 
     });
 
-    return "Поменяли ветку";
+    return "Код для кастомных клиентов";
   }
 }
