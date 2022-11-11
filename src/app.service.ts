@@ -22,6 +22,6 @@ export class AppService {
 
     });
 
-    return "Код для кастомных клиентов";
+    return "Новое изменение";
   }
 }
